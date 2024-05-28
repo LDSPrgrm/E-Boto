@@ -38,3 +38,5 @@ Database administrators typically have the technical ability to access and modif
 -   Regular Monitoring: Conducting regular monitoring of database activities to detect any unusual patterns or unauthorized access attempts that could indicate tampering with voting data.
 -   Dual Control Principle: Implementing a dual control principle where critical operations, such as modifying vote counts, require approval from multiple authorized individuals before changes are made.
     By implementing these security measures and following best practices in database administration, organizations can help mitigate the risk of unauthorized alterations to voting data by administrators.
+
+# End of 2nd Semester!
