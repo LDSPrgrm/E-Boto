@@ -34,12 +34,12 @@
                     <div class="bg-white dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-900 dark:text-gray-100 p-8 border border-gray-300 dark:border-gray-600 rounded shadow-sm sm:rounded-lg transition duration-300 ease-in-out flex items-center">
                         <div class="justify-items-center">
                             <div>
-                                <div class="text-5xl font-bold mb-2">
+                                <div class="text-7xl font-bold mb-2">
                                     <p >New Way</p>
                                     <p>To Empower</p> 
                                     <p class="text-blue-800">Your Voice</p>
                                 </div>
-                                <div class="text-sm mb-4">
+                                <div class="text-lg mb-4">
                                     Empower your voice, shape your future, sculpt tomorrow's landscape with ease - <br> join the movement reshaping democracy online.
                                 </div>
                                 <div>

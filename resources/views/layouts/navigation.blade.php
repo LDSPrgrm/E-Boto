@@ -18,7 +18,7 @@
                     @endif
 
                     <div class="text-blue-800 font-semibold ml-4">
-                        COMMISION ON ELECTIONS
+                        COMMISSION ON ELECTIONS
                     </div>
                 </div>
             </div>
